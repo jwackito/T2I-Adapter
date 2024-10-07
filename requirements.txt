@@ -1,4 +1,5 @@
 torch==2.0.1
+torchvision
 diffusers==0.19.3
 omegaconf
 transformers
@@ -6,3 +7,6 @@ datasets
 pytorch_lightning
 gradio
 accelerate
+opencv-python
+basicsr
+numpy==1.26
